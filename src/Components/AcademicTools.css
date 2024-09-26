@@ -1,0 +1,26 @@
+.academic-tools {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .tool-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .tool-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .tool-button i {
+    margin-right: 10px;
+  }
+  
